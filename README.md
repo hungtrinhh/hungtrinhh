@@ -5,7 +5,7 @@ Game Developer
 --------------
 
 * 🌍  I'm based in HaNoi/VietNam
-* ✉️  You can contact me at [hungtrinh310703@gmail.com](mailto:hungtrinh310703@gmail.com)
+* ✉️  You can contact me at [hungtrinh310703@gmail.com](mailto:hungtrinh310723@gmail.com)
 
 <a href="https://www.github.com/hungtrinhh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hungtrinhh?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
